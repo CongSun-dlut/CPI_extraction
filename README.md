@@ -40,7 +40,7 @@ CPI Extraction
 * Records: provide a record of our proposed model.
 * SourceCode: provide the source codes.  BioRE.py performs our proposed model; and BioRE.py performs the 'BERT+Gaussian' model.
 * ProcessedData: provide the CHEMPROT and DDIExtraction2013 datasets, including the overlapping and normal instances.
-*
+
 Pre-trained weights can be obtained from [pytorch_models](https://drive.google.com/drive/folders/15o_h-_YQUgccvc9202hTGrSyZfrzOPFX?usp=sharing).
 
 ![overview](figs/biobert_overview.png)
