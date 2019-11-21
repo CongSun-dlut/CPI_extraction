@@ -41,10 +41,7 @@ CPI Extraction
 * SourceCode: provide the source codes.  BioRE.py performs our proposed model; and BioRE.py performs the 'BERT+Gaussian' model.
 * ProcessedData: provide the CHEMPROT and DDIExtraction2013 datasets, including the overlapping and normal instances.
 
-Pre-trained weights can be obtained from [pytorch_models](https://drive.google.com/drive/folders/15o_h-_YQUgccvc9202hTGrSyZfrzOPFX?usp=sharing).
-
-![overview](figs/biobert_overview.png)
-This repository provides fine-tuning codes of BioBERT, a language representation model for biomedical domain, especially designed for biomedical text mining tasks such as biomedical named entity recognition, relation extraction, question answering, etc. Please refer to our paper [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](http://doi.org/10.1093/bioinformatics/btz682) for more details. This project is done by [DMIS-Lab](https://dmis.korea.ac.kr).
+'pytorch_model.bin' in the Resources and Records can be obtained from [pytorch_models](https://drive.google.com/drive/folders/15o_h-_YQUgccvc9202hTGrSyZfrzOPFX?usp=sharing).
 
 
 Some examples of execution instructions are listed below.
