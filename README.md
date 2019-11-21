@@ -52,6 +52,7 @@ QUICKSTART
 ================================================================================================================
 
 Our proposed model can be performed in the following environment:
+
 python                    3.6.9
 pytorch-pretrained-bert   0.6.1
 torch                     1.2.0
