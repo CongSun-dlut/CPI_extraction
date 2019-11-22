@@ -98,7 +98,7 @@ python BioRE.py \
   --eval_batch_size 8 \
   --predict_batch_size 8 \
   --learning_rate 2e-5 \
-  --num_train_epochs 1.0 \
+  --num_train_epochs 3.0 \
   --output_dir /$YourOutputPath \
   --bert_saved /$YourSavedmodelPath
 ```
