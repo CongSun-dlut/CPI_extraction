@@ -5,7 +5,8 @@ Chemical-protein Interaction Extraction via Gaussian Probability Distribution an
 
 ### Codes ###
 Our proposed model aims to detect and classify the chemical-protein interaction in biomedical texts, which has been the state-of-the-art model for CPI extraction. \
-In this repository, we provide the codes of our proposed model.
+In this repository, we provide the codes of our proposed model. \
+'pytorch_model.bin' in the Resources and Records can be obtained from [pytorch_models](https://drive.google.com/drive/folders/15o_h-_YQUgccvc9202hTGrSyZfrzOPFX?usp=sharing).
 ```
 CPI Extraction
   -Resources
@@ -45,7 +46,6 @@ CPI Extraction
 * SourceCode: provide the source codes.  BioRE.py performs our proposed model; and BioRE.py performs the 'BERT+Gaussian' model.
 * ProcessedData: provide the CHEMPROT and DDIExtraction2013 datasets, including the overlapping and normal instances.
 
-'pytorch_model.bin' in the Resources and Records can be obtained from [pytorch_models](https://drive.google.com/drive/folders/15o_h-_YQUgccvc9202hTGrSyZfrzOPFX?usp=sharing).
 
 
 ### Requirement ###
