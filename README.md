@@ -133,6 +133,14 @@ python BioRE_BG.py \
   --output_dir /$YourOutputPath
 ```
 
+### Cite ###
 
-
+```
+@article{sun2019chemical,
+  title={Chemical-protein Interaction Extraction via Gaussian Probability Distribution and External Biomedical Knowledge},
+  author={Sun, Cong and Yang, Zhihao and Su, Leilei and Wang, Lei and Zhang, Yin and Lin, Hongfei and Wang, Jian},
+  journal={arXiv preprint arXiv:1911.09487},
+  year={2019}
+}
+```
 
