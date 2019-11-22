@@ -1,7 +1,9 @@
 # Chemical-protein Interaction Extraction via Gaussian Probability Distribution and External Biomedical Knowledge
 
 Our proposed model aims to detect and classify the chemical-protein interaction in biomedical texts, which has been the state-of-the-art model for CPI extraction. 
-In this project, we provide the implementation of our proposed model. It is organized as follows.
+
+### Repository Structure ###
+In this repository, we provide the codes of our proposed model.
 ```
 CPI Extraction
   -Resources
