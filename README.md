@@ -44,21 +44,20 @@ CPI Extraction
 'pytorch_model.bin' in the Resources and Records can be obtained from [pytorch_models](https://drive.google.com/drive/folders/15o_h-_YQUgccvc9202hTGrSyZfrzOPFX?usp=sharing).
 
 
-#### QUICKSTART ####
-Our proposed model can be performed in the following environment:
-```
-python                    3.6.9
-pytorch-pretrained-bert   0.6.1
-torch                     1.2.0
-numpy                     1.16.4
-pandas                    0.25.0
-scipy                     1.3.1
-```
+### Requirement ###
 
-Since the model contains multiple layer, it generally need some time to train. If the users have no time or GPU to train model, the saved model in the Records can be loaded to test.
+* python                    3.6.9
+* pytorch-pretrained-bert   0.6.1
+* torch                     1.2.0
+* numpy                     1.16.4
+* pandas                    0.25.0
+* scipy                     1.3.1
 
 
-Some examples of execution instructions are listed below.
+### Run models ###
+Since the model contains multiple layer, it generally need some time to train. If the users have no time or GPU to train model, the saved model in the Records can be loaded to test. Furthermore, Some examples of execution instructions are listed below.
+
+
 #### Run our proposed model ####
 ```
 python BioRE.py \
