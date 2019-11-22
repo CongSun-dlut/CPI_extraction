@@ -62,7 +62,8 @@ CPI Extraction
 
 
 ## Run models ##
-Since the model contains multiple layer, it generally need some time to train. If the users have no time or GPU to train model, the saved model in the Records can be loaded to test. Furthermore, Some examples of execution instructions are listed below.
+Since the model contains multiple layer, it generally need some time to train. If the users have no time or GPU to train model, the saved model in the Records can be loaded to test. \
+Some examples of execution instructions are listed below.
 
 
 #### Run our proposed model ####
