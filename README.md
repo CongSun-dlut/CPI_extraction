@@ -51,7 +51,7 @@ CPI Extraction
 
 
 
-### Requirement ###
+## Requirement ##
 
 * python                    3.6.9
 * pytorch-pretrained-bert   0.6.1
@@ -65,7 +65,7 @@ CPI Extraction
 Since the model contains multiple layer, it generally need some time to train. If the users have no time or GPU to train model, the saved model in the Records can be loaded to test. Furthermore, Some examples of execution instructions are listed below.
 
 
-### Run our proposed model ###
+#### Run our proposed model ####
 ```
 python BioRE.py \
   --task_name cpi \
@@ -83,7 +83,7 @@ python BioRE.py \
   --num_train_epochs 3.0 \
   --output_dir /$YourOutputPath
 ```
-### Load the record of our proposed model ###
+#### Load the record of our proposed model ####
 ```
 python BioRE.py \
   --task_name cpi \
@@ -101,7 +101,7 @@ python BioRE.py \
   --output_dir /$YourOutputPath \
   --bert_saved /$YourSavedmodelPath
 ```
-### Run the 'BERT+Gaussian' model on the CHEMPROT dataset ###
+#### Run the 'BERT+Gaussian' model on the CHEMPROT dataset ####
 ```
 python BioRE_BG.py \
   --task_name cpi \
@@ -119,7 +119,7 @@ python BioRE_BG.py \
   --num_train_epochs 3.0 \
   --output_dir /$YourOutputPath
 ```
-### Run the 'BERT+Gaussian' model on the DDIExtraction dataset ###
+#### Run the 'BERT+Gaussian' model on the DDIExtraction dataset ####
 ```
 python BioRE_BG.py \
   --task_name ddi \
