@@ -4,7 +4,7 @@ Chemical-protein Interaction Extraction via Gaussian Probability Distribution an
 
 
 ## Model Structure ##
-<img src="model.jpg" width="1000" >
+<img src="model.jpg" width="800" >
 
 
 ## Codes ##
