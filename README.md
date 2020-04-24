@@ -9,7 +9,7 @@ Chemical-protein Interaction Extraction via Gaussian Probability Distribution an
 
 ## Codes ##
 In this repository, we provide the codes of our proposed model. \
-'pytorch_model.bin' in the Resources and Records can be obtained from [pytorch_model_76.56%](https://drive.google.com/drive/folders/15o_h-_YQUgccvc9202hTGrSyZfrzOPFX?usp=sharing).
+'pytorch_model.bin' in the Resources and Records can be obtained from [pytorch_models](https://drive.google.com/drive/folders/15o_h-_YQUgccvc9202hTGrSyZfrzOPFX?usp=sharing).
 ```
 CPI Extraction
   -Resources
@@ -55,14 +55,14 @@ CPI Extraction
 
 * python                    3.6.9
 * pytorch-pretrained-bert   0.6.1
-* torch                     1.2.0
+* torch                     1.1.0
 * numpy                     1.16.4
 * pandas                    0.25.0
 * scipy                     1.3.1
 
 
 ## Run models ##
-Since the model contains multiple layer, it generally need some time to train. If the users have no time or GPU to train model, the saved model in the Records can be loaded to test. \
+Since the model contains multiple layer, it generally need some time to train. If the users have no time to train model, the saved model in the Records can be loaded to test. \
 Some examples of execution instructions are listed below.
 
 
@@ -81,7 +81,8 @@ python BioRE.py \
   --eval_batch_size 8 \
   --predict_batch_size 8 \
   --learning_rate 2e-5 \
-  --num_train_epochs 3.0 \
+  --num_train_epochs 2.0 \
+  --seed 47 \
   --output_dir /$YourOutputPath
 ```
 #### Load the record of our proposed model ####
@@ -93,14 +94,14 @@ python BioRE.py \
   --do_lower_case \
   --data_dir /$YourPath/CPI_extraction/ProcessedData/CHEMPROT \
   --bert_model /$YourPath/CPI_extraction/Resources/NCBI_BERT_pubmed_uncased_L-12_H-768_A-12 \
+  --saved_model /$YourSavedmodelPath \
   --max_seq_length 128 \
   --train_batch_size 16 \
   --eval_batch_size 8 \
   --predict_batch_size 8 \
   --learning_rate 2e-5 \
-  --num_train_epochs 3.0 \
-  --output_dir /$YourOutputPath \
-  --bert_saved /$YourSavedmodelPath
+  --num_train_epochs 2.0 \
+  --output_dir /$YourOutputPath
 ```
 #### Run the 'BERT+Gaussian' model on the CHEMPROT dataset ####
 ```
@@ -117,7 +118,8 @@ python BioRE_BG.py \
   --eval_batch_size 8 \
   --predict_batch_size 8 \
   --learning_rate 2e-5 \
-  --num_train_epochs 3.0 \
+  --num_train_epochs 2.0 \
+  --seed 47 \
   --output_dir /$YourOutputPath
 ```
 #### Run the 'BERT+Gaussian' model on the DDIExtraction dataset ####
@@ -135,7 +137,8 @@ python BioRE_BG.py \
   --eval_batch_size 8 \
   --predict_batch_size 8 \
   --learning_rate 2e-5 \
-  --num_train_epochs 5.0 \
+  --num_train_epochs 3.0 \
+  --seed 17 \
   --output_dir /$YourOutputPath
 ```
 
