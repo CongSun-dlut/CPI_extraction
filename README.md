@@ -9,7 +9,7 @@ Chemical-protein Interaction Extraction via Gaussian Probability Distribution an
 
 ## Codes ##
 In this repository, we provide the codes of our proposed model. \
-'pytorch_model.bin' in the Resources and Records can be obtained from [pytorch_models](https://drive.google.com/drive/folders/15o_h-_YQUgccvc9202hTGrSyZfrzOPFX?usp=sharing).
+'pytorch_model.bin' in the Resources and Records can be obtained from [pytorch_model_76.56%](https://drive.google.com/drive/folders/15o_h-_YQUgccvc9202hTGrSyZfrzOPFX?usp=sharing).
 ```
 CPI Extraction
   -Resources
