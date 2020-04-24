@@ -1,0 +1,336 @@
+index	sentence	label
+DDI-DrugBank.d572.s1.p0	The incremental LDL-C reduction due to adding @DRUG$ to @DRUG$ may be reduced by this interaction.	DDI-effect
+DDI-DrugBank.d572.s10.p0	Patients who take both @DRUG$ and @DRUG$ should be carefully monitored.	DDI-advise
+DDI-DrugBank.d572.s11.p0	Carcinogenesis, Mutagenesis, Impairment of Fertility A 104-week dietary carcinogenicity study with @DRUG$ was conducted in rats at doses up to 1500 mg/kg/day (males) and 500 mg/kg/day (females) (~20 times the human exposure at 10 mg daily based on AUC0-24hr for total @DRUG$).	DDI-false
+DDI-DrugBank.d572.s12.p0	A 104-week dietary carcinogenicity study with @DRUG$ was also conducted in mice at doses up to 500 mg/kg/day (>150 times the human exposure at 10 mg daily based on AUC0-24hr for total @DRUG$).	DDI-false
+DDI-DrugBank.d572.s17.p0	In oral (gavage) fertility studies of @DRUG$ conducted in rats, there was no evidence of reproductive toxicity at doses up to 1000 mg/kg/day in male or female rats (~7 times the human exposure at 10 mg daily based on AUC0-24hr for total @DRUG$).	DDI-false
+DDI-DrugBank.d572.s22.p0	In rabbits treated with @DRUG$, an increased incidence of extra thoracic ribs was observed at 1000 mg/kg/day (150 times the human exposure at 10 mg daily based on AUC0-24hr for total @DRUG$).	DDI-false
+DDI-DrugBank.d572.s5.p0	Co-administration of @DRUG$ with @DRUG$ is not recommended until use in patients is studied.	DDI-advise
+DDI-DrugBank.d573.s1.p0	If at all possible @DRUG$ should be discontinued well before @DRUG$ is begun.	DDI-advise
+DDI-DrugBank.d575.s2.p0	Therefore, caution should be used in administering @DRUG$ (@DRUG$ injection) to patients receiving these other agents.	DDI-false
+DDI-DrugBank.d575.s3.p0	There was no change in the plasma kinetics of @DRUG$ when coadministered with @DRUG$.	DDI-false
+DDI-DrugBank.d575.s5.p0	An increase in intracellular levels of @DRUG$ was observed in vitro in the presence of @DRUG$.	DDI-mechanism
+DDI-DrugBank.d576.s4.p0	@DRUG$ given concomitantly with @DRUG$ may predispose to systemic bleeding.	DDI-effect
+DDI-DrugBank.d576.s5.p0	@DRUG$ may enhance the hypoglycemic effect of oral @DRUG$ of the sulfonylurea class.	DDI-effect
+DDI-DrugBank.d577.s0.p0	In elderly patients concurrently receiving certain @DRUG$, primarily @DRUG$, an increased incidence of thrombopenia with purpura has been reported.	DDI-false
+DDI-DrugBank.d577.s3.p0	@DRUG$ may inhibit the hepatic metabolism of @DRUG$.	DDI-mechanism
+DDI-DrugBank.d577.s4.p0	At a 1.6-g dose, @DRUG$ produced a slight but significant increase in the half-life of @DRUG$ but did not produce a corresponding decrease in the metabolic clearance rate.	DDI-mechanism
+DDI-DrugBank.d578.s1.p0	Mutual inhibition of metabolism occurs with concurrent use of @DRUG$ and @DRUG$;	DDI-mechanism
+DDI-DrugBank.d578.s10.p0	The effect of @DRUG$ on oral @DRUG$ is variable.	DDI-false
+DDI-DrugBank.d578.s11.p0	There are reports of enhanced as well as diminished effects of @DRUG$ when given concurrently with @DRUG$.	DDI-effect
+DDI-DrugBank.d578.s3.p0	convulsions have been reported with concurrent use of @DRUG$ and @DRUG$.	DDI-effect
+DDI-DrugBank.d578.s7.p0	@DRUG$ may increase the clearance of chronic high dose @DRUG$.	DDI-mechanism
+DDI-DrugBank.d578.s9.p0	@DRUG$ should be used cautiously in conjunction with @DRUG$ in patients suffering from hypoprothrombinemia.	DDI-advise
+DDI-DrugBank.d580.s1.p0	However, @DRUG$, a potent inhibitor of cytochrome P450 3A4, may increase plasma levels of @DRUG$ during concomitant dosing.	DDI-mechanism
+DDI-DrugBank.d581.s2.p0	patients receiving @DRUG$ and @DRUG$ should have more frequent monitoring of neutrophil counts.	DDI-advise
+DDI-DrugBank.d584.s5.p0	A 5.5-fold decrease in the mean @DRUG$ dose from 6.13 mg/day to 1.13 mg/day (approximately 80-85% reduction of @DRUG$ dose), was necessary to maintain a target INR of 1.5.	DDI-false
+DDI-DrugBank.d584.s7.p0	Furthermore, in patients receiving both drugs, careful monitoring of the INR or PT, and adjustment of the @DRUG$ dosage if indicated are recommended when the @DRUG$ dose is changed or discontinued.	DDI-advise
+DDI-DrugBank.d585.s1.p0	@DRUG$ antagonize the effects of @DRUG$.	DDI-effect
+DDI-DrugBank.d585.s2.p0	@DRUG$ in the presence of increased intraocular pressure may be hazardous when taken concurrently with agents such as @DRUG$.	DDI-effect
+DDI-DrugBank.d585.s3.p0	@DRUG$ may affect gastrointestinal absorption of various drugs, such as slowly dissolving dosage forms of @DRUG$;	DDI-mechanism
+DDI-DrugBank.d585.s5.p0	@DRUG$ may antagonize the effects of drugs that alter gastrointestinal motility, such as @DRUG$.	DDI-effect
+DDI-DrugBank.d585.s6.p0	Because @DRUG$ may interfere with the absorption of @DRUG$, simultaneous use of these drugs should be avoided.	DDI-mechanism
+DDI-DrugBank.d588.s12.p0	@DRUG$: Efficacy may be decreased due to urinary alkalizing effect of @DRUG$.	DDI-effect
+DDI-DrugBank.d588.s6.p0	@DRUG$ or @DRUG$: May increase the risk of hypokalemia and increase salt and water retention.	DDI-false
+DDI-DrugBank.d588.s7.p0	@DRUG$: Serum @DRUG$ levels may increase.	DDI-false
+DDI-DrugBank.d590.s1.p0	Coadministration with @DRUG$ results in a slight decrease in the rate of @DRUG$ absorption that is clinically unimportant.	DDI-false
+DDI-DrugBank.d590.s4.p0	For information on drug interactions associated with @DRUG$, refer to the @DRUG$     package insert.	DDI-false
+DDI-DrugBank.d591.s2.p0	In vivo, the plasma clearance of @DRUG$ was reduced by 70% during coadministration of @DRUG$ (25 mg bid for 2 days), a selective and potent CYP1A2 inhibitor.	DDI-mechanism
+DDI-DrugBank.d591.s5.p0	Possible interactions with drugs known to be metabolized by CYP1A2 via competitive inhibition such as @DRUG$ and @DRUG$ may also occur.	DDI-false
+DDI-DrugBank.d595.s2.p0	The addition of @DRUG$ to parenteral solutions containing @DRUG$ should be avoided, except where compatibility has been previously established.	DDI-false
+DDI-DrugBank.d596.s4.p0	The elevation of prothrombin time induced by @DRUG$ is not affected by administration of @DRUG$.	DDI-false
+DDI-DrugBank.d596.s5.p0	Effect of Other Drugs on the Metabolism of @DRUG$: Drugs that induce or inhibit CYP450 metabolism are not expected to alter the metabolism of @DRUG$.	DDI-false
+DDI-DrugBank.d597.s1.p0	This interaction should be given consideration in patients taking @DRUG$ concomitantly with @DRUG$.	DDI-advise
+DDI-DrugBank.d597.s13.p0	In vitro testing found no protein binding drug interaction between @DRUG$ and @DRUG$.	DDI-false
+DDI-DrugBank.d597.s16.p0	Studies with @DRUG$ agents and @DRUG$ have not demonstrated a reduction in natriuretic effect.	DDI-false
+DDI-DrugBank.d597.s17.p0	@DRUG$: single and multiple dose pharmacodynamics and pharmacokinetics are not affected by multiple doses of @DRUG$.	DDI-false
+DDI-DrugBank.d597.s18.p0	Nevertheless, during concomitant therapy with @DRUG$ and @DRUG$, patients should be observed closely for signs of declining renal function, as well as to assure diuretic efficacy.	DDI-advise
+DDI-DrugBank.d597.s22.p0	Patients on @DRUG$ treatment should be closely monitored when @DRUG$ is introduced or withdrawn.	DDI-advise
+DDI-DrugBank.d597.s24.p0	@DRUG$ did not have a significant effect on the pharmacokinetics of single doses of @DRUG$.	DDI-false
+DDI-DrugBank.d597.s25.p0	In vitro, @DRUG$ did not displace @DRUG$ from its human serum binding sites.	DDI-false
+DDI-DrugBank.d597.s6.p0	@DRUG$ is not a substitute for @DRUG$ for cardiovascular prophylaxis.	DDI-false
+DDI-DrugBank.d598.s0.p0	@DRUG$ may inhibit the hepatic metabolism of @DRUG$.	DDI-mechanism
+DDI-DrugBank.d599.s4.p0	If @DRUG$ replacement is required, the @DRUG$ dose should be carefully adjusted.	DDI-false
+DDI-DrugBank.d599.s6.p0	Limited published data indicate that @DRUG$ treatment increases cytochrome P450 (CP450) mediated @DRUG$ clearance in man.	DDI-mechanism
+DDI-DrugBank.d602.s0.p0	Caution is recommended when administering @DRUG$ with compounds that are metabolized/eliminated predominantly by the UGT1A1 pathway (e.g. @DRUG$).	DDI-advise
+DDI-DrugBank.d602.s1.p0	Concomitant treatment with @DRUG$ resulted in a 21% increase in the AUC of @DRUG$.	DDI-mechanism
+DDI-DrugBank.d602.s2.p0	Caution is recommended when administering @DRUG$ with @DRUG$.	DDI-advise
+DDI-DrugBank.d603.s0.p0	When administered concomitantly with @DRUG$   , @DRUG$ may enhance or precipitate bradycardia, A.V.	DDI-effect
+DDI-DrugBank.d603.s3.p0	@DRUG$    has been used in patients concomitantly treated with salt-retaining steroid therapy (i.e., @DRUG$), with or without salt supplementation.	DDI-false
+DDI-DrugBank.d604.s5.p0	@DRUG$ with @DRUG$ may reduce the effectiveness of the contraception and up to one month after discontinuation of these concomitant therapies.	DDI-effect
+DDI-DrugBank.d608.s1.p0	However, increased prothrombin time and bleeding have been reported in patients on concomitant @DRUG$ and @DRUG$ therapy.	DDI-effect
+DDI-DrugBank.d608.s2.p0	Therefore, caution should be exercised when administering @DRUG$ to patients on @DRUG$.	DDI-advise
+DDI-DrugBank.d608.s4.p0	Caution should be used if @DRUG$ is administered concomitantly with @DRUG$.	DDI-advise
+DDI-DrugBank.d610.s2.p0	@DRUG$ has no effect on the pharmacokinetic properties of @DRUG$.	DDI-false
+DDI-DrugBank.d613.s0.p0	A study published in 2002 found that @DRUG$ causes a statistically significant increase in plasma clearance of @DRUG$.	DDI-mechanism
+DDI-DrugBank.d616.s1.p0	Caution should be exercised when administering @DRUG$ therapy in combination with other @DRUG$.	DDI-advise
+DDI-DrugBank.d619.s0.p0	The occurrence of stupor, muscular rigidity, severe agitation, and elevated temperature has been reported in some patients receiving the combination of @DRUG$ and @DRUG$.	DDI-effect
+DDI-DrugBank.d619.s2.p0	This is typical of the interaction of @DRUG$ and @DRUG$.	DDI-int
+DDI-DrugBank.d622.s1.p0	This is especially true if the total dose of @DRUG$ has been large and the administration of @DRUG$ has been delayed.	DDI-false
+DDI-DrugBank.d625.s1.p0	Impaired renal function has been described in bone marrow transplant patients who were conditioned with high-dose intravenous @DRUG$ and who subsequently received @DRUG$ to prevent graft-versus-host disease	DDI-effect
+DDI-DrugBank.d627.s0.p0	@DRUG$ should be administered with caution to patients taking @DRUG$ because of the possibility of conduction disturbances.	DDI-advise
+DDI-DrugBank.d627.s3.p0	These effects should be considered when anticholinergic properties may be contributing to the therapeutic effect of concomitant medication (e.g., @DRUG$, inhaled @DRUG$).	DDI-false
+DDI-DrugBank.d631.s2.p0	@DRUG$ (@DRUG$) should be administered until normal hematopoiesis is restored.	DDI-false
+DDI-DrugBank.d631.s3.p0	Mild hepatotoxicity has been reported in some patients when @DRUG$ and @DRUG$ were administered concomitantly.	DDI-effect
+DDI-DrugBank.d632.s3.p0	When the rapid onset of a concomitant orally administered agent is a critical determinant of effectiveness (such as @DRUG$), the agent should be administered at least 1 hour prior to or 2 hours after @DRUG$ injection.	DDI-advise
+DDI-DrugBank.d632.s5.p0	No formal interaction studies have been performed to assess the effect of @DRUG$ on the kinetics of oral @DRUG$.	DDI-false
+DDI-DrugBank.d632.s7.p0	Thus, @DRUG$ and @DRUG$ should not be mixed and must be administered separately.	DDI-false
+DDI-DrugBank.d633.s0.p0	Since @DRUG$ is a substrate for the metabolic pathways involving CYP2D6 and CYP1A2 enzymes, inhibition or induction of either of these enzymes would be expected to alter @DRUG$ plasma concentrations.	DDI-false
+DDI-DrugBank.d633.s1.p0	In a formal, single-dose interaction study (n = 6 males) the clearance of @DRUG$ was decreased by 38% following the coadministration of @DRUG$, an inhibitor of CYP1A2.	DDI-mechanism
+DDI-DrugBank.d633.s11.p0	In a formal study, @DRUG$ were shown not to affect @DRUG$    plasma concentrations.	DDI-false
+DDI-DrugBank.d633.s2.p0	In another formal study (n = 8 extensive and n = 7 poor metabolizers of CYP2D6), coadministration of @DRUG$ did not alter the kinetics of @DRUG$ in the poor CYP2D6 metabolizer group.	DDI-false
+DDI-DrugBank.d633.s20.p0	Additionally, in one controlled study in five normal subjects and seven patients, the clearance of @DRUG$ was decreased 50% following the administration of @DRUG$   .	DDI-mechanism
+DDI-DrugBank.d633.s4.p0	In this crossover steady state study, the pharmacokinetics of @DRUG$ were unaffected in either phenotype by the coadministration of @DRUG$.	DDI-false
+DDI-DrugBank.d633.s6.p0	When concomitant administration of either of these two drugs with @DRUG$ is initiated, the dose of @DRUG$ should be slowly titrated to desired effect.	DDI-false
+DDI-DrugBank.d634.s3.p0	@DRUG$: Serum digitalis levels may be increased when hyperthyroid patients on a stable @DRUG$ regimen become euthyroid;	DDI-false
+DDI-DrugBank.d635.s0.p0	Other @DRUG$ should not be used concomitantly with @DRUG$ because they may have additive effects.	DDI-advise
+DDI-DrugBank.d636.s0.p0	Some @DRUG$ may interact with @DRUG$.	DDI-int
+DDI-DrugBank.d637.s1.p0	Use of @DRUG$ in conjunction with oral @DRUG$ may increase the risk of respiratory depression, hypotension and profound sedation or coma.	DDI-effect
+DDI-DrugBank.d638.s0.p0	@DRUG$ may decrease the hypotensive effect of @DRUG$.	DDI-effect
+DDI-DrugBank.d640.s0.p0	@DRUG$: Excessive reductions in blood pressure may occur in patients on diuretic therapy when @DRUG$ are started.	DDI-false
+DDI-DrugBank.d640.s8.p0	If a @DRUG$ is also used, the risk of @DRUG$ toxicity may be increased.	DDI-effect
+DDI-DrugBank.d641.s2.p0	Concomitant administration of substances that are also tubularly secreted (e.g., @DRUG$) could potentially result in delayed clearance of @DRUG$.	DDI-mechanism
+DDI-DrugBank.d641.s4.p0	Patients with mild to moderate renal insufficiency should avoid taking @DRUG$ with short elimination half-lives for a period of 2 days before, the day of, and 2 days following administration of @DRUG$.	DDI-advise
+DDI-DrugBank.d642.s0.p0	Prothrombin time or other suitable anticoagulation test should be monitored if @DRUG$ is administered with @DRUG$.	DDI-advise
+DDI-DrugBank.d645.s4.p0	@DRUG$ decreases the clearance of @DRUG$ by 19%.	DDI-mechanism
+DDI-DrugBank.d645.s5.p0	@DRUG$ increases the clearance of @DRUG$ by 15%.	DDI-mechanism
+DDI-DrugBank.d645.s8.p0	@DRUG$ clearance is unaffected by @DRUG$.	DDI-false
+DDI-DrugBank.d647.s1.p0	@DRUG$ has been reported to prolong the elimination half-life of @DRUG$ and may lead to severe bone marrow suppression;	DDI-mechanism
+DDI-DrugBank.d647.s2.p0	a reduction of the @DRUG$ dosage should be considered in patients receiving @DRUG$ concurrently.	DDI-advise
+DDI-DrugBank.d648.s3.p0	If @DRUG$ is given concurrently with @DRUG$, prothrombin time should be monitored.	DDI-advise
+DDI-DrugBank.d650.s2.p0	Because @DRUG$ is approximately 90% bound to plasma proteins, caution should be exercised if @DRUG$ is coadministered with other drugs known to affect protein binding.	DDI-false
+DDI-DrugBank.d651.s0.p0	Drug Interactions: Women on oral @DRUG$ have shown a significant increase in plasma @DRUG$ levels.	DDI-mechanism
+DDI-DrugBank.d652.s2.p0	The finding that @DRUG$ releases catecholamines in patients with essential hypertension suggests that it should be used cautiously, if at all, in patients receiving @DRUG$.	DDI-advise
+DDI-DrugBank.d652.s6.p0	Because the action of @DRUG$ will influence the delivery of food to the intestines and thus the rate of absorption, @DRUG$ dosage or timing of dosage may require adjustment.	DDI-advise
+DDI-DrugBank.d653.s4.p0	@DRUG$ may increase the clearance of chronic high dose @DRUG$.	DDI-mechanism
+DDI-DrugBank.d653.s6.p0	@DRUG$ should be used cautiously in conjunction with @DRUG$ in patients suffering from hypoprothrombinemia.	DDI-advise
+DDI-DrugBank.d653.s7.p0	The effect of @DRUG$ on oral @DRUG$ is variable.	DDI-effect
+DDI-DrugBank.d653.s8.p0	There are reports of enhanced as well as diminished effects of @DRUG$ when given concurrently with @DRUG$.	DDI-effect
+DDI-DrugBank.d654.s2.p0	Based on in vitro P450 inhibition studies and the low systemic exposure observed following topical application of @DRUG$, @DRUG$ is unlikely to affect the metabolism of other P450 substrates.	DDI-false
+DDI-DrugBank.d656.s3.p0	It is recommended that plasma @DRUG$ levels be monitored when initiating, adjusting and discontinuing @DRUG$.	DDI-advise
+DDI-DrugBank.d658.s0.p0	When administered concurrently, @DRUG$ may increase the effects of oral @DRUG$;	DDI-effect
+DDI-DrugBank.d661.s2.p0	The median duration of action of @DRUG$    0.6 mg/kg administered after a 1 mg/kg dose of @DRUG$ when T 1 returned to 75% of control was 36 minutes (range 14-57, n=12) vs.	DDI-false
+DDI-DrugBank.d661.s4.p0	There are no controlled studies documenting the use of @DRUG$    before or after other @DRUG$.	DDI-false
+DDI-DrugBank.d665.s7.p0	Displacement of @DRUG$ from plasma protein binding sites will elevate the level of free @DRUG$ in the serum.	DDI-false
+DDI-DrugBank.d666.s0.p0	Catecholamine-depleting drugs (e.g., @DRUG$) may have an additive effect when given with @DRUG$.	DDI-effect
+DDI-DrugBank.d666.s3.p0	@DRUG$ has been shown to increase serum @DRUG$ levels when both drugs are co-administered.	DDI-mechanism
+DDI-DrugBank.d668.s1.p0	Furthermore, @DRUG$, @DRUG$, St.	DDI-false
+DDI-DrugBank.d669.s0.p0	Concomitant administration of @DRUG$ and @DRUG$ has been associated with erythema and histamine-like flushing and anaphylactoid reactions.	DDI-effect
+DDI-DrugBank.d670.s0.p0	Potential for @DRUG$    to Affect Other Drugs @DRUG$ is not expected to cause clinically important pharmacokinetic interactions with drugs that are metabolized by cytochrome P450 isozymes.	DDI-false
+DDI-DrugBank.d670.s9.p0	Potential for Other Drugs to Affect @DRUG$    @DRUG$ is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19, so that an interaction with inhibitors or inducers of these isozymes is unlikely.	DDI-false
+DDI-DrugBank.d671.s0.p0	The interaction of @DRUG$ (@DRUG$) with other drugs has not been studied in humans.	DDI-false
+DDI-DrugBank.d671.s2.p0	Decreased seizure threshold has been reported in patients receiving @DRUG$ concomitantly with @DRUG$.	DDI-effect
+DDI-DrugBank.d676.s4.p0	No cross-resistance with other @DRUG$, radiotherapy or @DRUG$ has been demonstrated.	DDI-false
+DDI-DrugBank.d677.s1.p0	as well as @DRUG$ and @DRUG$.	DDI-false
+DDI-DrugBank.d678.s1.p0	The metabolism of @DRUG$ is accelerated by @DRUG$;	DDI-mechanism
+DDI-DrugBank.d680.s3.p0	Therefore, when coadministered with @DRUG$, adjustment of the dosage of @DRUG$ or of such drugs may not be necessary.	DDI-false
+DDI-DrugBank.d680.s7.p0	Patients treated with @DRUG$ and @DRUG$ concomitantly should be monitored for increases in INR and prothrombin time.	DDI-advise
+DDI-DrugBank.d686.s0.p0	@DRUG$ may compete with other drugs, such as @DRUG$, for sites of metabolism in the liver, thus elevating the serum levels of such compounds to potentially toxic levels.	DDI-mechanism
+DDI-DrugBank.d686.s1.p0	Therefore, when concomitant use of @DRUG$ and @DRUG$ is anticipated, it may be necessary to monitor blood levels and/or reduce the dosage of such compounds.	DDI-advise
+DDI-DrugBank.d687.s0.p0	Administration of @DRUG$ decreases oral clearance of @DRUG$ by about 5%.	DDI-mechanism
+DDI-DrugBank.d688.s2.p0	Administration of a higher dose of @DRUG$ should be considered when coadministering with @DRUG$.	DDI-advise
+DDI-DrugBank.d689.s3.p0	The pressor response of @DRUG$ may also be potentiated by @DRUG$.	DDI-effect
+DDI-DrugBank.d693.s1.p0	When daily doses of @DRUG$ 2 g and weekly doses of @DRUG$ 7.5 mg were coadministered to 15 rheumatoid arthritis patients in a drug-drug interaction study, the pharmacokinetic disposition of the drugs was not altered.	DDI-false
+DDI-DrugBank.d693.s2.p0	Daily doses of @DRUG$ 2 g (maximum 3 g) and weekly doses of @DRUG$ 7.5 mg (maximum 15 mg) were administered alone or in combination to 310 rheumatoid arthritis patients in two controlled 52-week clinical studies.	DDI-false
+DDI-DrugBank.d694.s2.p0	No dosage adjustment of @DRUG$ or @DRUG$ is recommended.	DDI-false
+DDI-DrugBank.d696.s0.p0	@DRUG$ may reverse the analgesic activity of @DRUG$.	DDI-effect
+DDI-DrugBank.d698.s1.p0	@DRUG$ - concurrent use decreases gastrointestinal absorption of @DRUG$;	DDI-mechanism
+DDI-DrugBank.d698.s2.p0	requirements for @DRUG$ may be increased in patients receiving @DRUG$.	DDI-effect
+DDI-DrugBank.d700.s1.p0	It is recommended that @DRUG$ and @DRUG$ not be administered simultaneously.	DDI-advise
+DDI-DrugBank.d700.s10.p0	However, in a drug-drug interaction study, mean @DRUG$ AUC was decreased by 15% when coadministered with @DRUG$.	DDI-mechanism
+DDI-DrugBank.d700.s11.p0	Therefore, it is recommended that oral @DRUG$ are co- administered with @DRUG$ with caution and additional birth control methods be considered.	DDI-advise
+DDI-DrugBank.d700.s16.p0	Interference of @DRUG$ hydrolysis may lead to less @DRUG$ available for absorption.	DDI-false
+DDI-DrugBank.d704.s0.p0	Drug-Drug Interactions: The pharmacokinetic and pharmacodynamic interactions between @DRUG$ capsules and other @DRUG$ have not been determined.	DDI-false
+DDI-DrugBank.d704.s1.p0	However, interactions may be expected and @DRUG$ capsules should NOT be used in combination with other @DRUG$.	DDI-advise
+DDI-DrugBank.d704.s2.p0	The pharmacokinetic interaction between @DRUG$ and @DRUG$ capsules was investigated.	DDI-false
+DDI-DrugBank.d704.s4.p0	Therefore, @DRUG$ capsules should be used with caution in combination with @DRUG$, particularly at doses higher than 0.4 mg.	DDI-advise
+DDI-DrugBank.d704.s5.p0	Results from limited in vitro and in vivo drug-drug interaction studies between @DRUG$ and @DRUG$ are inconclusive.	DDI-false
+DDI-DrugBank.d704.s6.p0	Therefore, caution should be exercised with concomitant administration of @DRUG$ and @DRUG$ capsules.	DDI-advise
+DDI-DrugBank.d706.s0.p0	Catecholamine-depleting drugs (e.g., @DRUG$) may have an additive effect when given with @DRUG$.	DDI-effect
+DDI-DrugBank.d709.s5.p0	Although such a risk is not verified for @DRUG$, combination of @DRUG$ with such drugs is not recommended.	DDI-false
+DDI-DrugBank.d710.s2.p0	@DRUG$: @DRUG$, 100 mg, was given twice daily for 13 days to 12 healthy volunteers.	DDI-false
+DDI-DrugBank.d710.s5.p0	Coadministration with @DRUG$ reduced the peak concentration and AUC values for @DRUG$ by approximately 11%.	DDI-mechanism
+DDI-DrugBank.d710.s6.p0	@DRUG$: @DRUG$, 100 mg, was given twice daily fro 13 days to 12 healthy volunteers.	DDI-false
+DDI-DrugBank.d710.s9.p0	Peak plasma concentrations and AUC of @DRUG$ were reduced approximately 10% in the presence of @DRUG$.	DDI-mechanism
+DDI-DrugBank.d711.s3.p0	The concurrent use of @DRUG$ and @DRUG$ has been reported to result in fatal renal toxicity.	DDI-effect
+DDI-DrugBank.d713.s0.p0	The concomitant use of @DRUG$ with other @DRUG$ that produce dry mouth, constipation, and other anticholinergic pharmacological effects may increase the frequency and/or severity of such effects.	DDI-effect
+DDI-DrugBank.d713.s3.p0	Coadministration of @DRUG$ with drugs that are eliminated by active renal tubular secretion may increase the serum concentration of @DRUG$ and/or the coadministered drug due to competition for this elimination pathway.	DDI-false
+DDI-DrugBank.d716.s1.p0	Changes in @DRUG$ and other diabetes drug therapies may be necessary during treatment with @DRUG$.	DDI-advise
+DDI-DrugBank.d720.s2.p0	@DRUG$ reduce @DRUG$ clearance, significantly increasing systemic exposure.	DDI-mechanism
+DDI-DrugBank.d720.s4.p0	If concomitant treatment with @DRUG$ and an @DRUG$ is clinically warranted, appropriate observation of the patient is advised.	DDI-advise
+DDI-DrugBank.d721.s3.p0	The pharmacokinetic parameters of @DRUG$ are not significantly modified by @DRUG$ coadministration.	DDI-false
+DDI-DrugBank.d721.s4.p0	In vitro studies show that @DRUG$ does not displace @DRUG$ from its binding site on protein.	DDI-false
+DDI-DrugBank.d725.s3.p0	The pressor response of @DRUG$ may also be potentiated by @DRUG$.	DDI-effect
+DDI-DrugBank.d726.s2.p0	Dose adjustment of @DRUG$ Capsules may be required, and iPTH and serum calcium concentrations should be closely monitored if a patient initiates or discontinues therapy with a strong CYP3A4 inhibitor such as @DRUG$.	DDI-advise
+DDI-DrugBank.d727.s0.p0	@DRUG$ competitively inhibits the intracellular phosphorylation of @DRUG$.	DDI-effect
+DDI-DrugBank.d727.s1.p0	Therefore, use of @DRUG$ in combination with @DRUG$ should be avoided.	DDI-advise
+DDI-DrugBank.d728.s1.p0	No pharmacokinetic interaction between 85 mg/m2 @DRUG$ and infusional @DRUG$ has been observed in patients treated every 2 weeks.	DDI-false
+DDI-DrugBank.d728.s2.p0	Increases of @DRUG$ plasma concentrations by approximately 20% have been observed with doses of 130 mg/m2 @DRUG$ dosed every 3 weeks.	DDI-mechanism
+DDI-DrugBank.d732.s0.p0	@DRUG$ is not known to interact with other drugs including @DRUG$ supplements;	DDI-false
+DDI-DrugBank.d732.s2.p0	Concomitant administration of @DRUG$ with other chelation therapy, such as @DRUG$ is not recommended.	DDI-advise
+DDI-DrugBank.d734.s0.p0	@DRUG$ may accentuate the orthostatic hypotension that may occur with @DRUG$.	DDI-effect
+DDI-DrugBank.d734.s1.p0	Antihypertensive effects of @DRUG$ and related compounds may be counteracted when @DRUG$ are used concomitantly.	DDI-effect
+DDI-DrugBank.d734.s2.p0	Concomitant administration of @DRUG$ with @DRUG$ results in increased plasma levels of both drugs.	DDI-mechanism
+DDI-DrugBank.d736.s1.p0	Hypokalemia may develop during concomitant use of @DRUG$ or @DRUG$.	DDI-false
+DDI-DrugBank.d736.s3.p0	@DRUG$ may decrease arterial responsiveness to @DRUG$.	DDI-effect
+DDI-DrugBank.d736.s5.p0	@DRUG$ may increase the responsiveness of @DRUG$.	DDI-effect
+DDI-DrugBank.d736.s7.p0	@DRUG$ may add to or potentiate the action of other @DRUG$.	DDI-effect
+DDI-DrugBank.d736.s8.p0	Potentiation occurs with @DRUG-DRUG$.	DDI-false
+DDI-DrugBank.d737.s7.p0	CYP interactions: Inhibitors of cytochrome P450 enzymes would not be expected to affect @DRUG$ elimination because @DRUG$ is not appreciably metabolized by these enzymes in vivo or in vitro.	DDI-false
+DDI-DrugBank.d738.s0.p0	Do not exceed a 5 mg daily dose of @DRUG$ when administered with therapeutic doses of @DRUG$ or other potent CYP3A4 inhibitors.	DDI-advise
+DDI-DrugBank.d739.s0.p0	@DRUG$ at a Dose of 10 mg Once Daily Dosed to Pharmacokinetic Steady State  - did not cause clinically significant changes in the kinetics of a single intravenous dose of @DRUG$ (predominantly a cytochrome P450 1A2 substrate).	DDI-false
+DDI-DrugBank.d739.s1.p0	- did not change the pharmacokinetic profile of @DRUG$ (a substrate of cytochromes P450 2A6 and 2C9) or influence the effect of a single 30-mg oral dose of @DRUG$ on prothrombin time or the INR (International Normalized Ratio).	DDI-false
+DDI-DrugBank.d742.s10.p0	However, the impairment of motor skills produced by @DRUG$ has been shown to be additive with those caused by @DRUG$.	DDI-effect
+DDI-DrugBank.d742.s11.p0	Accordingly, patients should be advised to avoid @DRUG$ and other similar drugs while taking @DRUG$.	DDI-advise
+DDI-DrugBank.d742.s2.p0	Drugs Affecting Hepatic Metabolism The metabolism and pharmacokinetics of @DRUG$    (@DRUG$) Orally Disintegrating Tablets may be affected by the induction or inhibition of drug-metab-olizing enzymes.	DDI-false
+DDI-DrugBank.d742.s8.p0	However, the impairment of cognitive and motor skills produced by @DRUG$    were shown to be additive with those produced by @DRUG$.	DDI-effect
+DDI-DrugBank.d743.s11.p0	A few spontaneous accounts of QT interval prolongation with ventricular arrhythmia including torsades de pointes, have been reported in patients receiving @DRUG$ or @DRUG$.	DDI-false
+DDI-DrugBank.d743.s13.p0	Studies to evaluate potential interactions of @DRUG$ with @DRUG$ are in progress.	DDI-false
+DDI-DrugBank.d743.s4.p0	Concomitant administration of @DRUG$ and @DRUG$ is contraindicated.	DDI-advise
+DDI-DrugBank.d743.s7.p0	Concomitant administration of @DRUG$ and @DRUG$ is contraindicated.	DDI-advise
+DDI-DrugBank.d750.s0.p0	Concomitant use of @DRUG$ with @DRUG$ may result in an adverse drug interaction.	DDI-int
+DDI-DrugBank.d752.s9.p0	The difficulty in achieving adequate sedation may have been the result of decreased absorption of the @DRUG$ due to both the gastrointestinal effects and stimulant effects of @DRUG$.	DDI-false
+DDI-DrugBank.d753.s2.p0	@DRUG$ or other medications with anticholinergic activity when used concurrently with @DRUG$ may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.	DDI-effect
+DDI-DrugBank.d753.s3.p0	It has been reported that the incidence of bradycardia was increased when @DRUG$ was combined with @DRUG$ for induction of anesthesia.	DDI-effect
+DDI-DrugBank.d753.s4.p0	In addition, CNS toxicity has been reported (confusion, disorientation, respiratory depression, apnea, seizures) following coadministration of @DRUG$ with @DRUG$;	DDI-effect
+DDI-DrugBank.d756.s1.p0	Combination with @DRUG$ (@DRUG$) is associated with increased risk of seizures.	DDI-false
+DDI-DrugBank.d758.s0.p0	The CNS depressant effects of @DRUG$ may be additive with that of other @DRUG$..	DDI-effect
+DDI-DrugBank.d759.s0.p0	Limited evidence suggests that @DRUG$ may influence the intensity and duration of action of @DRUG$.	DDI-mechanism
+DDI-DrugBank.d761.s12.p0	Although undercarboxylated osteocalcin, a marker of vitamin K nutritional status, was unaltered with @DRUG$ administration, vitamin K levels tended to decline in subjects taking @DRUG$.	DDI-false
+DDI-DrugBank.d761.s4.p0	@DRUG$ inhibited absorption of a @DRUG$ supplement by approximately 60%.	DDI-mechanism
+DDI-DrugBank.d762.s2.p0	Therefore, the coadministration of @DRUG$ with @DRUG$ is not recommended.	DDI-advise
+DDI-DrugBank.d763.s1.p0	Because @DRUG$ is metabolized by hepatic cytochrome P-450 drug-metabolizing enzymes (CYP3A4, CYP2D6, CYP1A2), inducers or inhibitors of these enzymes may change the clearance and, hence, the half-life of @DRUG$.	DDI-false
+DDI-DrugBank.d763.s7.p0	@DRUG$ did not increase blood levels of high-dose @DRUG$.	DDI-false
+DDI-DrugBank.d765.s0.p0	CYP3A4 Inhibitors: @DRUG$, an inhibitor of the drug metabolizing enzyme CYP3A4, significantly increased plasma concentrations of @DRUG$ when coadministered to subjects who were poor metabolizers (see CLINICAL PHARMACOLOGY, Variability in Metabolism and Drug-Drug Interactions).	DDI-mechanism
+DDI-DrugBank.d766.s0.p0	Since @DRUG$ is metabolized by a P450 enzyme system, drugs that induce or inhibit this drug metabolizing enzyme system may elicit important drug-drug interactions that may alter @DRUG$ plasma concentrations.	DDI-false
+DDI-DrugBank.d769.s1.p0	Physicians should carefully monitor PT and INR in patients concurrently administered @DRUG$ and @DRUG$.	DDI-advise
+DDI-DrugBank.d770.s4.p0	however, in patients with Paget's Disease prior @DRUG$ use appears to reduce the anti-resorptive response to @DRUG$ nasal spray.	DDI-effect
+DDI-DrugBank.d775.s1.p0	Prior administration of @DRUG$ can potentiate the neuromuscular blocking effects of @DRUG$.	DDI-effect
+DDI-DrugBank.d775.s2.p0	Evidence of spontaneous recovery from @DRUG$ should be observed before the administration of @DRUG$.	DDI-advise
+DDI-DrugBank.d775.s4.p0	There are no clinical data on the use of @DRUG$ with other @DRUG$.	DDI-false
+DDI-DrugBank.d776.s17.p0	Depending on clinical circumstances, consideration should be given to increasing the dose of @DRUG$ when it is administered with @DRUG$.	DDI-advise
+DDI-DrugBank.d776.s23.p0	The combined use of @DRUG$ at doses of 400 mg or greater with @DRUG$ is contraindicated.	DDI-advise
+DDI-DrugBank.d776.s24.p0	The coadministration of @DRUG$ at doses lower than 400 mg/day with @DRUG$ should be carefully monitored.	DDI-advise
+DDI-DrugBank.d776.s27.p0	The combined use of @DRUG$ with @DRUG$ is contraindicated.	DDI-advise
+DDI-DrugBank.d776.s3.p0	one fatality has been reported from hypoglycemia in association with combined @DRUG$ and @DRUG$ use.	DDI-effect
+DDI-DrugBank.d776.s32.p0	Patients receiving @DRUG$ and @DRUG$ concomitantly should be carefully monitored.	DDI-advise
+DDI-DrugBank.d776.s34.p0	Patients receiving @DRUG$ and @DRUG$ concomitantly should be carefully monitored.	DDI-advise
+DDI-DrugBank.d776.s39.p0	however, in some patients there were decreases up to 47% and 33% of @DRUG$ and @DRUG$ levels.	DDI-false
+DDI-DrugBank.d776.s8.p0	Careful monitoring of prothrombin time in patients receiving @DRUG$ and @DRUG$ is recommended.	DDI-advise
+DDI-DrugBank.d777.s0.p0	The interaction of @DRUG$, @DRUG$, with other drugs has not been well studied.	DDI-false
+DDI-DrugBank.d777.s3.p0	In the treatment of acute MI, @DRUG$, when not otherwise contraindicated, should be administered with @DRUG$ ( see below ).	DDI-false
+DDI-DrugBank.d777.s4.p0	Anticoagulation and @DRUG$ After Treatment for Myocardial Infarction -- In the treatment of acute myocardial infarction, the use of @DRUG$ has been shown to reduce the incidence of reinfarction and stroke.	DDI-false
+DDI-DrugBank.d777.s5.p0	The addition of @DRUG$ to @DRUG$ causes a minimal increase in the risk of minor bleeding (3.9% vs. 3.1%), but does not appear to increase the incidence of major bleeding (see	DDI-effect
+DDI-DrugBank.d779.s0.p0	When @DRUG$ is used with other @DRUG$, potentiation of antihypertensive effect may occur.	DDI-effect
+DDI-DrugBank.d779.s2.p0	Patients may require reduced doses of @DRUG$ when on @DRUG$.	DDI-advise
+DDI-DrugBank.d781.s1.p0	The possibility of hypotensive effects can be minimized by either discontinuing the @DRUG$ or increasing the salt intake prior to initiation of treatment with @DRUG$.	DDI-effect
+DDI-DrugBank.d781.s10.p0	Use of a @DRUG$ may further increase the risk of @DRUG$ toxicity.	DDI-false
+DDI-DrugBank.d781.s15.p0	Food Interaction: Oral administration of @DRUG$    Tablets with food does not significantly lower the rate or extent of @DRUG$ absorption relative to the fasted state.	DDI-false
+DDI-DrugBank.d781.s16.p0	However, the extent of biotransformation of @DRUG$ to the active metabolite, @DRUG$, is reduced approximately 43%, resulting in a reduction in the plasma ACE inhibition curve of approximately 20%, probably clinically insignificant.	DDI-false
+DDI-DrugBank.d781.s2.p0	If @DRUG$ cannot be interrupted, close medical supervision should be provided with the first dose of @DRUG$    Tablets, for at least two hours and until blood pressure has stabilized for another hour.	DDI-advise
+DDI-DrugBank.d781.s3.p0	The rate and extent of @DRUG$ absorption and elimination are not affected by concomitant @DRUG$.	DDI-false
+DDI-DrugBank.d781.s4.p0	The bioavailability of @DRUG$ was reduced by @DRUG$, however, and this was associated with a decrease in plasma ACE inhibition.	DDI-false
+DDI-DrugBank.d784.s0.p0	The concomitant use of @DRUG$ with other @DRUG$ or with other agents which produce dry mouth, constipation, somnolence (drowsiness), and/or other anticholinergic-like effects may increase the frequency and/or severity of such effects.	DDI-effect
+DDI-MedLine.d143.s0.p0	[Interaction between @DRUG$ and @DRUG$].	DDI-false
+DDI-MedLine.d143.s1.p0	The drug interaction between @DRUG$ and @DRUG$ has been the subject of much study in recent years.	DDI-false
+DDI-MedLine.d143.s2.p0	Contradictory results regarding the effect of @DRUG$ on platelet reactivity and on clinical outcome in @DRUG$-treated patients have been reported in literature.	DDI-false
+DDI-MedLine.d143.s4.p0	@DRUG$ has a much weaker effect on @DRUG$'s pharmacokinetics and on platelet reactivity during concomitant use.	DDI-mechanism
+DDI-MedLine.d143.s5.p0	The influence of the other @DRUG$ when used simultaneously with @DRUG$ has not yet been investigated in adequately randomized studies.	DDI-false
+DDI-MedLine.d143.s7.p0	To date, there is no conclusive evidence of a clinically-relevant interaction between any of the @DRUG$ and @DRUG$.	DDI-false
+DDI-MedLine.d147.s0.p0	Interaction of @DRUG$ and @DRUG$, in vitro and in vivo, in human A375 melanoma cells.	DDI-false
+DDI-MedLine.d147.s2.p0	The effect of @DRUG$ and @DRUG$, alone and in combination, was evaluated for growth inhibition (MTT), radiolabeled drug uptake, cellular thiol content (HPLC), and DNA strand breaks (Comet assay).	DDI-false
+DDI-MedLine.d147.s6.p0	There was a >75% reduction in cellular glutathione and cysteine with @DRUG$ but not @DRUG$.	DDI-false
+DDI-MedLine.d147.s8.p0	@DRUG$ and @DRUG$ show additive effects in vitro but not in vivo in human A375 melanoma cells.	DDI-effect
+DDI-MedLine.d154.s0.p0	Enhancement of humoral immune responses to inactivated Newcastle disease and @DRUG$ by oral administration of @DRUG$ in chickens.	DDI-false
+DDI-MedLine.d154.s3.p0	In experiment 1, oral administration of @DRUG$ at a dose of 5 mg/kg of BW for 7 d on the immune response in chickens intramuscularly injected with @DRUG$ was evaluated.	DDI-false
+DDI-MedLine.d154.s5.p0	In experiment 2, the same regimen of @DRUG$ was administered to chickens inoculated with @DRUG$, and an enhanced serum antibody response to AI vaccination was also observed.	DDI-effect
+DDI-MedLine.d154.s6.p0	Considering the safety of @DRUG$, because no adverse effect was found throughout the experiments, @DRUG$ may be a promising oral adjuvant to improve immunization in poultry.	DDI-false
+DDI-MedLine.d159.s0.p0	Protective effect of @DRUG$ and  @DRUG$ against the acute toxicity of diepoxybutane to human lymphocytes.	DDI-false
+DDI-MedLine.d159.s6.p0	(ii) @DRUG$ elicits a significant protective effect on DEB induced toxicity, which was potentiated by  @DRUG$.	DDI-effect
+DDI-MedLine.d161.s3.p0	In the present study, we tested whether the highly specific metabotropic glutamate receptor 5 antagonist, @DRUG$, reduces dopaminergic and noradrenergic neuronal loss in monkeys rendered parkinsonian by chronic treatment with low doses of @DRUG$.	DDI-false
+DDI-MedLine.d161.s7.p0	The @DRUG$ treatment also had a significant effect on the @DRUG$-induced loss of norepinephrine neurons in the locus coeruleus and adjoining A5 and A7 noradrenaline cell groups.	DDI-effect
+DDI-MedLine.d161.s9.p0	Our data demonstrate that chronic treatment with the metabotropic glutamate receptor 5 antagonist, @DRUG$, significantly reduces @DRUG$ toxicity towards dopaminergic and noradrenergic cell groups in non-human primates.	DDI-effect
+DDI-MedLine.d163.s4.p0	The susceptibility results for @DRUG$ and @DRUG$ were interpreted according to the most relevant criteria.	DDI-false
+DDI-MedLine.d163.s7.p0	The combination of @DRUG$ and @DRUG$ can be synergistic against MRSA.	DDI-effect
+DDI-MedLine.d164.s0.p0	@DRUG$ enhances @DRUG$-mediated antibody-dependent cellular cytotoxicity by up-regulation of cell surface HER2 expression.	DDI-effect
+DDI-MedLine.d164.s3.p0	In an in vitro assay, @DRUG$ induced HER2 expression at the cell surface of HER2-positive breast cancer cell lines, leading to the enhancement of @DRUG$-mediated ADCC.	DDI-effect
+DDI-MedLine.d164.s4.p0	Furthermore, we present a case report in which a second @DRUG$ treatment following @DRUG$ resulted in the marked shrinkage of multiple metastatic tumors in HER2-positive breast cancer.	DDI-effect
+DDI-MedLine.d166.s0.p0	Improved parathyroid hormone control by @DRUG$ is associated with reduction in @DRUG$ requirement in patients with end-stage renal disease.	DDI-false
+DDI-MedLine.d166.s1.p0	Uncontrolled hy-per-parathyroidism causes bone marrow fibrosis, leading to @DRUG$ (@DRUG$) resistance.	DDI-false
+DDI-MedLine.d166.s17.p0	Reduction of PTH by @DRUG$ is associated with a decrease in @DRUG$ requirement.	DDI-effect
+DDI-MedLine.d166.s2.p0	Medical treatment with @DRUG$ is effective in reducing plasma parathyroid hormone (PTH) levels, but its effect on @DRUG$ dosing is unknown.	DDI-false
+DDI-MedLine.d166.s6.p0	The primary objective of the study was to ascertain the difference in @DRUG$ responsiveness before and after 12 months of @DRUG$ therapy.	DDI-false
+DDI-MedLine.d169.s6.p0	We also evaluated the effects of @DRUG$ doses between 200 and 800 mg on absorption of 5 mg @DRUG$ [as concentrated RBC (CRBC)].	DDI-false
+DDI-MedLine.d169.s8.p0	@DRUG$ doses   1000 mg diminished @DRUG$ absorption by an average of 49.6%.	DDI-mechanism
+DDI-MedLine.d169.s9.p0	A @DRUG$ dose of 800 mg diminished absorption of 5 mg @DRUG$ by 37.7%.	DDI-mechanism
+DDI-MedLine.d179.s0.p0	Synergistic interaction between @DRUG$ and @DRUG$ is sequence dependent in human non-small lung cancer with EGFR TKIs-resistant mutation.	DDI-int
+DDI-MedLine.d179.s3.p0	NSCLC cell lines with EGFR T790M mutation and K-ras mutation were exposed to either @DRUG$ or @DRUG$ or both based on various sequential administrations.	DDI-false
+DDI-MedLine.d179.s5.p0	@DRUG$ exhibited dose-dependent growth inhibition in NSCLC cell lines and arrested cell cycle at G1 phase, whereas @DRUG$ arrested at S phase.	DDI-false
+DDI-MedLine.d179.s6.p0	Although single or concurrent use of @DRUG$ and @DRUG$ has some anti-proliferative effects, the sequential administrations of both drugs remarkably enhanced anti-tumor activity.	DDI-effect
+DDI-MedLine.d179.s7.p0	When cells were exposed to @DRUG$ followed by @DRUG$, synergism was observed.	DDI-effect
+DDI-MedLine.d179.s8.p0	The molecular basis of this synergism is that the signaling pathways that were initially activated by @DRUG$ exposure were efficiently suppressed by the subsequent exposure to @DRUG$.	DDI-effect
+DDI-MedLine.d180.s1.p0	The @DRUG$ (@DRUG$), one of S-adenosylhomocysteine (AdoHcy) hydrolase inhibitors, has shown antitumor activities in a broad range of solid tumors and acute myeloid leukemia.	DDI-false
+DDI-MedLine.d181.s4.p0	The authors report the case of an infant with confirmed congenital hypothyroidism on @DRUG$ who experienced a possible drug interaction with @DRUG$.	DDI-int
+DDI-MedLine.d181.s6.p0	Questioning revealed the child was taking @DRUG$ drops before feeds while on @DRUG$.	DDI-false
+DDI-MedLine.d181.s8.p0	Drug interaction of @DRUG$ with @DRUG$ has not been reported previously and is not listed in the British National Formulary for Children.	DDI-false
+DDI-MedLine.d184.s0.p0	@DRUG$ locomotor sensitization and conditioned place preference in adolescent male and female rats neonatally treated with @DRUG$.	DDI-false
+DDI-MedLine.d184.s2.p0	The objective was to analyze the effects of neonatal @DRUG$ treatment on effects of @DRUG$ in adolescent rats using locomotor sensitization and conditioned place preference procedures.	DDI-false
+DDI-MedLine.d184.s6.p0	Male rats demonstrated sensitization to @DRUG$, although this was muted compared with female rats, and were unaffected by neonatal @DRUG$.	DDI-false
+DDI-MedLine.d185.s12.p0	Co-administration of @DRUG$ with CYP3A inhibitors is feasible as the observed increase in @DRUG$ PK parameters was not considered clinically relevant.	DDI-false
+DDI-MedLine.d185.s13.p0	Considering the variability in exposure following enzyme inhibition and the fact that chronic dosing of @DRUG$ was not studied with CYP3A inhibitors, close monitoring of @DRUG$-related adverse events is necessary.	DDI-false
+DDI-MedLine.d185.s2.p0	This study evaluated the effect of a potent CYP3A inhibitor, @DRUG$, on the pharmacokinetics and safety of @DRUG$.	DDI-false
+DDI-MedLine.d185.s5.p0	On day 8, a single @DRUG$ dose was co-administered with @DRUG$.	DDI-false
+DDI-MedLine.d185.s7.p0	In the presence of @DRUG$, there was 1.6- and 1.8-fold increase in C (max) and AUC of @DRUG$, respectively.	DDI-mechanism
+DDI-MedLine.d189.s11.p0	These results suggest that rat liver slices do not reproduce the reported in vivo biotransformation of @DRUG$ and therefore may not be an appropriate model for @DRUG$ metabolism.	DDI-false
+DDI-MedLine.d189.s3.p0	The incubations were performed in the absence and presence of the non-specific CYP inhibitor, @DRUG$ (@DRUG$) and isoform-specific inhibitors.	DDI-false
+DDI-MedLine.d189.s7.p0	@DRUG$ decreased the toxicity of @DRUG$, increased exposure to parent compound, and decreased metabolite levels in a dose-dependent manner.	DDI-effect
+DDI-MedLine.d189.s8.p0	Of the isoform-specific CYP inhibitors tested for an effect on the @DRUG$ metabolite profile, only @DRUG$ was noticeably effective, indicating a role of CYPs 2A6, 2C9, 2Cl9, and 2E1.	DDI-false
+DDI-MedLine.d190.s1.p0	To determine whether the co-injection of extracellular matrix degrading enzymes improves retinal transduction following intravitreal delivery of @DRUG$ (@DRUG$).	DDI-false
+DDI-MedLine.d190.s5.p0	The addition of @DRUG$ or @DRUG$ greatly enhanced transduction of the retinal ganglion cell layer and increased the depth of transduction into the outer retina.	DDI-false
+DDI-MedLine.d190.s6.p0	@DRUG$ had a limited effect and @DRUG$ was ineffective.	DDI-false
+DDI-MedLine.d190.s7.p0	Electroretinograms survived with higher concentrations of @DRUG$ and @DRUG$ than were required for optimal retinal transduction.	DDI-false
+DDI-MedLine.d194.s0.p0	The role of p27(Kip1) in @DRUG$-enhanced @DRUG$ cytotoxicity in human ovarian cancer cells.	DDI-effect
+DDI-MedLine.d194.s11.p0	@DRUG$ + @DRUG$ vs.	DDI-false
+DDI-MedLine.d194.s15.p0	The siRNA knockdown of p27(Kip1) decreased @DRUG$- and @DRUG$-induced apoptosis compared with a negative control siRNA (sub-G1 fraction, control siRNA vs. p27(Kip1) siRNA: 42.5% vs. 20.1%, difference = 22.4%, 95% CI = 20.1% to 24.7%, P = .017).	DDI-false
+DDI-MedLine.d194.s16.p0	Studies with forced expression and siRNA knockdown of Bcl-2 and Cdk1 suggest that @DRUG$-mediated induction of p27(Kip1) enhanced @DRUG$-induced apoptosis by negatively regulating Bcl-2 and Cdk1 expression.	DDI-effect
+DDI-MedLine.d194.s17.p0	Inhibition of Src family and Abl kinases with either siRNAs or @DRUG$ enhances @DRUG$ sensitivity of ovarian cancer cells through p27(Kip1)-mediated suppression of Bcl-2 and Cdk1 expression.	DDI-effect
+DDI-MedLine.d194.s4.p0	The effect of @DRUG$, an inhibitor of Src and Abl kinases, on @DRUG$ sensitivity was measured in ovarian cancer cells and HEY xenografts.	DDI-false
+DDI-MedLine.d194.s5.p0	The roles of p27(Kip1), Bcl-2, and Cdk1 in apoptosis induced by @DRUG$ and @DRUG$ were assessed using a terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling (TUNEL) assay, siRNA knockdown of gene expression, transfection with Bcl-2 and Cdk1 expression vectors, and flow cytometry.	DDI-false
+DDI-MedLine.d194.s9.p0	HEY cells treated with @DRUG$ plus @DRUG$ formed fewer colonies than did cells treated with either agent alone.	DDI-effect
+DDI-MedLine.d195.s0.p0	Influence of @DRUG$ on @DRUG$ induced antinociception and its pharmacokinetics.	DDI-false
+DDI-MedLine.d195.s5.p0	@DRUG$ plasma concentration was also increased when it was administered with @DRUG$.	DDI-mechanism
+DDI-MedLine.d195.s7.p0	From this study it can be concluded that @DRUG$ can be used as a bioenhancer along with @DRUG$.	DDI-effect
+DDI-MedLine.d199.s0.p0	Prevention of emergence agitation in seven children receiving low-dose @DRUG$ and @DRUG$ total intravenous anesthesia.	DDI-false
+DDI-MedLine.d199.s2.p0	We retrospectively reviewed the records of 7 pediatric oncology patients who received low-dose @DRUG$ in conjunction with @DRUG$ for total intravenous anesthesia (TIVA) repeatedly for radiation therapy.	DDI-false
+DDI-MedLine.d200.s0.p0	[Efficacy of fixed combination @DRUG$/@DRUG$ in hospitalized patients with hypertensive disease]	DDI-false
+DDI-MedLine.d200.s1.p0	Efficacy and tolerability of fixed @DRUG$/@DRUG$ combination was studied in 86 patients with hypertensive disease hospitalized in departments of general internal medicine or cardiology.	DDI-false
+DDI-MedLine.d200.s2.p0	All patients had indications for antihypertensive therapy and were randomized either to fixed combination @DRUG$/@DRUG$ (n=43) or to therapy which corresponded to the hospital formulary (n=43).	DDI-false
+DDI-MedLine.d200.s7.p0	Rate of achievement of target BP with fixed combination @DRUG$/@DRUG$ (93%) was comparable with that on traditional therapy (90%).	DDI-false
+DDI-MedLine.d201.s4.p0	The aim of the present study was to investigate whether HB-EGF is a therapeutic target for T-ALL, and to further elucidate the antitumor effects of a specific inhibitor of HB-EGF, @DRUG$ (@DRUG$).	DDI-false
+DDI-MedLine.d201.s5.p0	We elucidated the expression of HB-EGF in T-ALL cell lines, and evaluated the effect of @DRUG$ on these cells alone or in combination with @DRUG$.	DDI-false
+DDI-MedLine.d204.s0.p0	Distinct synergistic action of @DRUG$ and @DRUG$ against Pseudomonas aeruginosa.	DDI-false
+DDI-MedLine.d204.s9.p0	Distinct and statistically significant synergism was observed between @DRUG$ and @DRUG$ by disc diffusion tests when compared with their individual effects.	DDI-effect
+DDI-MedLine.d208.s0.p0	@DRUG$   failure in an HIV-positive woman on @DRUG$ therapy resulting in two ectopic pregnancies.	DDI-effect
+DDI-MedLine.d208.s3.p0	We present an interesting case of an HIV-positive woman on @DRUG$ therapy having tubal pregnancies on two separate occasions with @DRUG$ in place.	DDI-effect
+DDI-MedLine.d209.s1.p0	@DRUG$, an @DRUG$, is the standard hormone treatment for breast cancer.	DDI-false
+DDI-MedLine.d209.s10.p0	Depression does not always require @DRUG$ therapy, and @DRUG$ have no proven preventive impact on hot flushes linked to the menopause.	DDI-false
+DDI-MedLine.d211.s2.p0	The preclinical combination of @DRUG$ with the mTOR inhibitor @DRUG$ has displayed synergy in vitro and represents a novel combination in MM.	DDI-effect
+DDI-MedLine.d213.s0.p0	In vivo CYP3A activity is significantly lower in @DRUG$-treated as compared with @DRUG$-treated renal allograft recipients.	DDI-false
+DDI-MedLine.d213.s1.p0	In vitro studies have identified @DRUG$ and @DRUG$ as CYP3A inhibitors.	DDI-false
+DDI-MedLine.d214.s0.p0	[Influence of @DRUG$ and @DRUG$ on MPTP-evoked behavior violations in C57BL/6 mice].	DDI-false
+DDI-MedLine.d214.s5.p0	Acute administration of @DRUG$ or @DRUG$ failed to influence locomotion in mice, while their combination normalized motor activity.	DDI-effect
+DDI-MedLine.d216.s5.p0	In the @DRUG$ and @DRUG$ phases, the areas under the effect-time curves (self-reported drowsiness and performance) were significantly higher than those in the placebo phase (P < 0.05).	DDI-false
+DDI-MedLine.d216.s6.p0	The findings suggest that the dosage of @DRUG$ should be reduced in patients receiving @DRUG$.	DDI-advise
+DDI-MedLine.d217.s0.p0	Interaction of @DRUG$ with different @DRUG$ is antagonistic in breast but not in other cancer cells.	DDI-effect
+DDI-MedLine.d217.s11.p0	These results, if confirmed in-vivo, indicate that @DRUG$ is not a suitable chemosensitizer for breast cancer or with @DRUG$ for other cancers.	DDI-false
+DDI-MedLine.d217.s2.p0	This study investigates the ability of @DRUG$ to sensitize cells from different origins to several @DRUG$.	DDI-false
+DDI-MedLine.d218.s0.p0	@DRUG$-@DRUG$ interaction and associated gastrointestinal bleeding risk in a case-control study.	DDI-false
+DDI-MedLine.d218.s3.p0	We sought to evaluate whether initiation of an @DRUG$ increases the risk of hospitalization for gastrointestinal bleeding in @DRUG$ users.	DDI-false
+DDI-MedLine.d218.s5.p0	In total, 430,455 @DRUG$ users contributed 407,370 person-years of @DRUG$ use.	DDI-false
+DDI-MedLine.d218.s9.p0	Also @DRUG$, which is not believed to interact with @DRUG$, increased the risk of GI bleeding (OR   =   1.75 [95% CI, 1.30-2.35]).	DDI-effect
+DDI-MedLine.d227.s0.p0	@DRUG$ enhances the antinociceptive effect of @DRUG$ in mice.	DDI-effect
+DDI-MedLine.d227.s2.p0	The purpose of this study was to evaluate whether the psychostimulant drug @DRUG$ has any effect on @DRUG$-induced antinociception and locomotor inhibitor activity in mice in acute application.	DDI-false
+DDI-MedLine.d227.s8.p0	At the same time, the locomotor inhibitory effect of @DRUG$ was counteracted by @DRUG$.	DDI-effect
+DDI-MedLine.d231.s0.p0	Interaction study of @DRUG$ and @DRUG$ with co-administered drugs.	DDI-false
+DDI-MedLine.d231.s6.p0	The response of @DRUG$ and @DRUG$ after interaction with co-administered drugs at different conditions and temperature were noted using a Shimadzu HPLC system with PDA detector.	DDI-false
+DrugDDI.d21928724.s8.p0	@DRUG$ can be a useful @DRUG$ especially in cases which respond to drugs having mixed effects on serotonin and catecholamines levels in the brain.	DDI-false
