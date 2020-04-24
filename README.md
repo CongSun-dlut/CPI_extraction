@@ -18,7 +18,7 @@ CPI Extraction
       -pytorch_model.bin
       -bert_config.json
   -Records
-    -CPI_all_epoch3
+    -record_76.56%
       -pytorch_model.bin
       -bert_config.json
       -eval_results.txt
