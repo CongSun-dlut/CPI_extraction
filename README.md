@@ -54,6 +54,7 @@ CPI Extraction
 
 ## Tested environments ##
 
+* Ubuntu                    16.04
 * python                    3.6.9
 * pytorch-pretrained-bert   0.6.1
 * torch                     1.1.0
