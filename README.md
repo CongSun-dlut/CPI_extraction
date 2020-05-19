@@ -51,7 +51,7 @@ CPI Extraction
 
 
 
-## Requirement ##
+## Tested environments ##
 
 * python                    3.6.9
 * pytorch-pretrained-bert   0.6.1
@@ -145,11 +145,16 @@ python BioRE_BG.py \
 ## Cite ##
 
 ```
-@article{sun2019chemical,
-  title={Chemical-protein Interaction Extraction via Gaussian Probability Distribution and External Biomedical Knowledge},
-  author={Sun, Cong and Yang, Zhihao and Su, Leilei and Wang, Lei and Zhang, Yin and Lin, Hongfei and Wang, Jian},
-  journal={arXiv preprint arXiv:1911.09487},
-  year={2019}
+@article{10.1093/bioinformatics/btaa491,
+    author = {Sun, Cong and Yang, Zhihao and Su, Leilei and Wang, Lei and Zhang, Yin and Lin, Hongfei and Wang, Jian},
+    title = "{Chemical-protein Interaction Extraction via Gaussian Probability Distribution and External Biomedical Knowledge}",
+    journal = {Bioinformatics},
+    year = {2020},
+    month = {05},
+    issn = {1367-4803},
+    doi = {10.1093/bioinformatics/btaa491},
+    url = {https://doi.org/10.1093/bioinformatics/btaa491},
+    note = {btaa491},
 }
 ```
 
