@@ -1,6 +1,6 @@
 # Chemical-protein Interaction Extraction via Gaussian Probability Distribution and External Biomedical Knowledge
 
-Please refer to our paper [Chemical-protein Interaction Extraction via Gaussian Probability Distribution and External Biomedical Knowledge](https://arxiv.org/pdf/1911.09487) for more details.
+Paper: [Chemical-protein Interaction Extraction via Gaussian Probability Distribution and External Biomedical Knowledge](https://arxiv.org/pdf/1911.09487)
 
 ## Model structure ##
 <img src="model.jpg" width="800" >
